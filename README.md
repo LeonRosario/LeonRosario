@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
 
-- 📫 How to reach me **abhinendrayadav3@gmail.com**
+- 📫 How to reach me **rozarioleon731@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
@@ -27,7 +27,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LeonRosario/LeonRosario/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/https://github.com/LeonRosario/https://github.com/LeonRosario/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <br clear="both">
