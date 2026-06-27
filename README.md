@@ -10,8 +10,11 @@
 - 🔭 I’m currently working on AI/ML and Data Science 
 
 Skills
+
 Programming Languages: Python Java, C, C++
+
 Database Management: SQL
+
 Tools: Jupyter, VS Code, Figma, Excel
 
 - 📫 How to reach me **rozarioleon731@gmail.com**
