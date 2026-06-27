@@ -7,11 +7,12 @@
 <img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 
 ###
-- 🔭 I’m currently working on **Backend**
-  
-- 🌱 I’m currently learning **Spring Boot, Spring AI**
+- 🔭 I’m currently working on AI/ML and Data Science 
 
-- 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
+Skills
+Programming Languages: Python Java, C, C++
+Database Management: SQL
+Tools: Jupyter, VS Code, Figma, Excel
 
 - 📫 How to reach me **rozarioleon731@gmail.com**
 
