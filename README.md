@@ -11,11 +11,11 @@
 
 Skills
 
-Programming Languages: Python Java, C, C++
+Programming Languages: Python Java, C, C++,R
 
 Database Management: SQL
 
-Tools: Jupyter, VS Code, Figma, Excel
+Tools:  VS Code, Figma, Excel
 
 - 📫 How to reach me **rozarioleon731@gmail.com**
 
