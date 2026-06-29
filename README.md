@@ -9,8 +9,7 @@
 ###
 - 🔭 I’m currently working on AI/ML and Data Science 
 
-Skills
-
+Skills:
 Programming Languages: Python Java, C, C++,R
 
 Database Management: SQL
