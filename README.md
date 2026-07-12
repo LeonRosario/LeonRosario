@@ -14,7 +14,7 @@ Programming Languages: Python Java, C, C++,R
 
 Database Management: SQL
 
-Tools:  VS Code, Figma, Excel
+Tools:  VS Code, Figma, Excel 
 
 - 📫 How to reach me **rozarioleon731@gmail.com**
 
