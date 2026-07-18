@@ -1,4 +1,6 @@
-<h1 align="center">Hello!👋, I'm Leon Rosario</h1>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Leon. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 <h3 align="center">A passionate developer from India</h3>
 
 
