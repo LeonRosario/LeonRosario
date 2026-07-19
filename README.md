@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="./assets/leon-builds.svg" width="700" alt="Leon.builds"/>
+  <img src="./assets/leon-builds.svg" alt="LEON.builds" width="1000">
 </p>
 
-<h3 align="center"> Software Engineer • AI & Full-Stack Developer</h3>
+<h2 align="center">Software Engineer • AI & Full-Stack Developer</h2>
 
 <p align="center">
-Building intelligent, scalable applications with modern technologies.
+  Building intelligent, scalable applications with modern technologies.
 </p>
-
-
 ###
 
 <img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
@@ -16,12 +14,6 @@ Building intelligent, scalable applications with modern technologies.
 ###
 - 🔭 I’m currently working on AI/ML and Data Science 
 
-Skills:
-Programming Languages: Python Java, C, C++,R
-
-Database Management: SQL
-
-Tools:  VS Code, Figma, Excel 
 
 - 📫 How to reach me **rozarioleon731@gmail.com**
 
