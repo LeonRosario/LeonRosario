@@ -1,7 +1,12 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Leon. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <img src="./assets/leon-builds.svg" width="700" alt="Leon.builds"/>
+</p>
 
-<br />
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center"> Software Engineer • AI & Full-Stack Developer</h3>
+
+<p align="center">
+Building intelligent, scalable applications with modern technologies.
+</p>
 
 
 ###
