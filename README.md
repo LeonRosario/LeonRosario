@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/leon-builds.svg" alt="LEON.builds" width="1000">
+  <img src="./assets/leon-builds.svg" alt="LEON.builds" width="2000">
 </p>
 
 <h2 align="center">Software Engineer • AI & Full-Stack Developer</h2>
