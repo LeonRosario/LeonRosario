@@ -2,7 +2,7 @@
   <img src="./assets/leon-builds.svg" alt="LEON.builds" width="1200">
 </p>
 
-<h2 align="center">Software Engineer • AI & Data </h2>
+<h2 align="center">Software Engineer • AI & Data Science </h2>
 
 <p align="center">
   Building intelligent, scalable applications with modern technologies.
